@@ -3,7 +3,7 @@
 # library(reshape2)
 
 ## Tidy data
-
+# test change to file
 # Values in column names 
 
 raw <- read.csv("data/pew.csv", check.names = F)
